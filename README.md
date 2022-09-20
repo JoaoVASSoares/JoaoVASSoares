@@ -1,4 +1,4 @@
-## Olá, Eu sou João Vitor Almeida, estudando e amante de TI👋
+## Olá, Eu sou João Vitor Almeida, estudante e amante de TI👋
 
 - 🔭 Hoje estou trabalhando como Técnico de Laboratorio.
 - 🌱 Estou aprendendo Java no momento.
