@@ -1,10 +1,14 @@
-name: Generate Datas
+#Nome da Action:
+name: Snake Game
 
+# Controlador do tempo que sera feito a atualização dos arquivos.
 on:
-  schedule: # execute every 5 hours
+  schedule: # Será atualizado a cada 5 horas.
     - cron: "* */5 * * *"
+# Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
 
+# Regras
 jobs:
   build:
     name: Jobs to update datas
@@ -14,13 +18,14 @@ jobs:
      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
 
-      # Snake Animation
+      # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: JoaoVASSoares
+          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-      - run: git satus
+      - run: git status
       
       # Para as atualizações.
       - name: Push changes
