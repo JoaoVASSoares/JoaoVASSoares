@@ -1,7 +1,7 @@
 ## Olá, Eu sou João Vitor Almeida, estudante e amante de TI👋
 
 - 🔭 Hoje estou trabalhando como Técnico de Laboratorio.
-- 🌱 Estou aprendendo Java no momento.
+- 🌱 Estou aprendendo Javascript e web no momento.
 - 📫 Contate-me atraves do email: joaovitoralmeidas@hotmail.com
 - 😄 Pronomes: Ele/Dele
 
