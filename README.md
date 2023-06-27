@@ -1,9 +1,10 @@
 ## Olá, Eu sou João Vitor Almeida, estudante e amante de TI👋
 
-- 🔭 Hoje estou trabalhando como Técnico de Laboratorio.
-- 🌱 Estou aprendendo Javascript e web no momento.
+- 🔭 Hoje estou trabalhando como Técnico de Laboratorio. Porém em busca da mudança de carreira.
 - 📫 Contate-me atraves do email: joaovitoralmeidas@hotmail.com
-- 😄 Pronomes: Ele/Dele
+
+## Um pouco sobre mim
+<p align="justify">Desde muito novo, a área da tecnologia e tudo que nela envolve sempre me despertou um interesse acima do comum, pegava aparelhos para formatar, montei o meu próprio computador, me inteirava dos avanços tecnológicos e todas as suas vertentes, porém por questões diversas comecei minha carreira cursando Engenharia metalúrgica e apesar de ser um bom curso, não me despertava o furor que obtive quando migrei para o curso de Sistemas de Informação onde decidi dar o primeiro passo para construção sólida da minha carreira, sigo também me especializando com cursos extracurriculares para assim garantir uma maior adição de conhecimento e então conseguir minha primeira experiência empregatícia para aprender ainda mais e não medindo esforços para alcançar meus objetivos e os interesses da organização. Desde já garanto muita garra, bom humor e profissionalismo.</p>
 
 ##
 <div align="center">
