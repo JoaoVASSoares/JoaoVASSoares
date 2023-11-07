@@ -4,7 +4,7 @@
 - 📫 Contate-me atraves do email: joaovitoralmeidas@hotmail.com
 
 ## Um pouco sobre mim
-<p align="justify">Desde muito novo, a área da tecnologia e tudo que nela envolve sempre me despertou um interesse acima do comum, pegava aparelhos para formatar, montei o meu próprio computador, me inteirava dos avanços tecnológicos e todas as suas vertentes, porém por questões diversas comecei minha carreira cursando Engenharia metalúrgica e apesar de ser um bom curso, não me despertava o furor que obtive quando migrei para o curso de Sistemas de Informação onde decidi dar o primeiro passo para construção sólida da minha carreira, sigo também me especializando com cursos extracurriculares para assim garantir uma maior adição de conhecimento e então conseguir minha primeira experiência empregatícia para aprender ainda mais e não medindo esforços para alcançar meus objetivos e os interesses da organização. Desde já garanto muita garra, bom humor e profissionalismo.</p>
+<p align="justify">Desde muito novo, a área da tecnologia e tudo que nela envolve sempre me despertou um interesse acima do comum, pegava aparelhos para formatar, montei o meu próprio computador, me inteirava dos avanços tecnológicos e todas as suas vertentes, porém por questões diversas comecei minha carreira cursando Engenharia metalúrgica e apesar de ser um bom curso, não me despertava o furor que obtive quando migrei para o curso de Sistemas de Informação onde decidi dar o primeiro passo para construção sólida da minha carreira, sigo também me especializando com cursos extracurriculares para assim garantir uma maior adição de conhecimento e então conseguir aprender ainda mais e não medindo esforços para alcançar meus objetivos e os interesses da organização. Desde já garanto muita garra, bom humor e profissionalismo.</p>
 
 ##
 <div align="center">
@@ -22,10 +22,12 @@
   <img align="center" alt="Joao-Js" width="126.5" height="28" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Joao-Ts" width="126.5" height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Joao-node" width="100" height="28" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Joao-nest" width="100" height="28" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img align="center" alt="Joao-ex" width="100" height="28" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img align="center" alt="Joao-sequelize" width="100" height="28" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   <img align="center" alt="Joao-Mongo" width="110" height="28" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Joao-SQL" width="77" height="28"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+
 </div>
 
 ## Tecnologia que estou aprendendo 
@@ -35,7 +37,6 @@
   <img align="center" alt="Joao-Ts" width="126.5" height="28" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Joao-HTML" width="88.25" height="28"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Joao-CSS" width="77" height="28"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  
 </div>
 
 ## Redes Sociais 
