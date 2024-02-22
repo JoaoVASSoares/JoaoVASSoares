@@ -26,11 +26,11 @@
   <img align="center" alt="Joao-Laravel" width="103" height="28" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Joao-nest" width="100" height="28" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img align="center" alt="Joao-ex" width="100" height="28" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img align="center" alt="Joao-sequelize" width="100" height="28" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
-  <img align="center" alt="Joao-Mongo" width="110" height="28" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
  </div><br>
  
 <div style="display: inline_block">
+  <img align="center" alt="Joao-sequelize" width="100" height="28" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+  <img align="center" alt="Joao-Mongo" width="110" height="28" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Joao-SQL" width="77" height="28"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
  </div>
  
