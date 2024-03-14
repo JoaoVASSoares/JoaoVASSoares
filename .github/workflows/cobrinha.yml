@@ -23,7 +23,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: JoaoVASSoares
-          gif_out_path: dist/github-contribution-grid-snake.gif
+          # gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
           snake_color: 'blue'
       - run: git status
