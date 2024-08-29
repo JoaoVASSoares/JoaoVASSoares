@@ -1,6 +1,6 @@
 ## Olá, Eu sou João Vitor Almeida, estudante e amante de TI👋
 
-- 🔭 Hoje estou trabalhando como Técnico de Laboratorio. Porém em busca da mudança de carreira.
+- 🔭 Hoje estou trabalhando como desenvolvedor.
 - 📫 Contate-me atraves do email: joaovitoralmeidas@hotmail.com
 
 ## Um pouco sobre mim
