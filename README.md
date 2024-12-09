@@ -38,6 +38,7 @@
  #### Database
   <div style="display: inline_block">
     <img align="center" alt="Joao-SQL" width="77" height="28"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="Joao-PostgreSQL" width="130.5" height="28"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img align="center" alt="Joao-Mongo" width="110" height="28" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   </div>
 
@@ -49,12 +50,12 @@
 ## Tecnologia que estou estudando
 
 <div style="display: inline_block">
+    <img align="center" alt="Joao-vue" width="85.25" height="28" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"> 
     <img align="center" alt="Joao-react" width="86.25" height="28" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
     <img align="center" alt="Joao-java" width="77" height="28" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
     <img align="center" alt="Joao-spring" width="95.5" height="28" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"> 
     <img align="center" alt="Joao-docker" width="97.5" height="28" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
     <img align="center" alt="Joao-googleClud" width="141.75" height="28" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"> 
-
 </div>
 
 ## Redes Sociais 
