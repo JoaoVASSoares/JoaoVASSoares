@@ -39,7 +39,7 @@ Também participo bastante da parte de:
 
 ## Tecnologias principais
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,angular,java,mongodb,mysql,docker,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,react,angular,java,mongodb,postgres,mysql,docker,git,linux)](https://skillicons.dev)
 
 ---
 
